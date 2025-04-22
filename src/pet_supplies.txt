@@ -1,0 +1,23 @@
+PRODUCT ID    NAME                  BRAND            PRICE    STOCK    REMAINING STOCK
+1             Dog Toy               KONG             500      150       100
+2             Cat Litter            Tidy Cats        600      200       150
+3             Bird Cage             Prevue           1000     120       80
+4             Dog Leash             Ruffwear         700      180       130
+5             Pet Shampoo           Earthbath        1200     100       70
+6             Cat Tree              Frisco           1500     140       90
+7             Dog Harness           Julius-K9        800      160       110
+8             Fish Tank Filter      Fluval           1800     130       90
+9             Dog Collar            Blueberry Pet    900      170       120
+10            Pet Bed               Furhaven         1100     150       100
+11            Bird Feeder           Perky-Pet        400      90        70
+12            Fish Food             Tetra            300      200       150
+13            Dog Chew Bones        Nylabone         600      140       100
+14            Cat Scratcher         SmartyKat        1000     110       80
+15            Reptile Heat Lamp     Zoo Med          1500     100       70
+16            Pet Nail Clipper      Safari           700      150       120
+17            Dog Training Pads     AmazonBasics     1200     200       160
+18            Aquarium Heater       Aqueon           1800     100       70
+19            Rabbit Hutch          PawHut           2000     80        50
+20            Hamster Wheel         Kaytee           500      90        60
+
+21             dog                 doggyy         doggyshit      20        21        
